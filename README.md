@@ -1,4 +1,4 @@
-# A Pytorch Implementation of BAPA-Net: Boundary Adaptation and Prototype Alignment for Cross-domain Semantic Segmentation (ICCV 2021 oral)
+# A Pytorch Implementation of Automated segmentation of choroidal neovascularization on optical coherence tomography angiography images of neovascular age-related macular degeneration patients based on deep learning (Journal of Big Data)
 
 ## Requirements
 `pip3 install -r requirements.txt`
@@ -8,12 +8,7 @@
 
 - Download datasets
 
-- Example of testing a model with domain adaptation with CityScapes as target domain(***class_num=16***)
-    `python3 evaluateUDA.py --model-path *checkpoint.pth* --class-num 16`
 
-<!-- ## Checkpoints
-
-We provide the checkpoints at [Google Drive](https://drive.google.com/drive/folders/1d6guGc5gw6jrkxNJ25NPzx2fgH4LK4Ox?usp=sharing).
 
 ## Citation
 ```
