@@ -1,7 +1,16 @@
 # A Pytorch Implementation of Automated segmentation of choroidal neovascularization on optical coherence tomography angiography images of neovascular age-related macular degeneration patients based on deep learning (Journal of Big Data)
 
 ## Requirements
-`pip3 install -r requirements.txt`
+Prerequisites
+* python3
+* numpy
+* pillow
+* opencv-python
+* scikit-learn
+* tensorboardX
+* visdom
+* pytorch
+* torchvision
 
 
 ## Data preparation
