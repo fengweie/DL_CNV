@@ -25,3 +25,18 @@ CUDA_VISIBLE_DEVICES=0 python front_main.py
 ```
 
 The related model parameters can be modified in `option.py`.
+
+Please cite our paper if you find it useful for your research.
+
+```
+@article{feng2023automated,
+  title={Automated segmentation of choroidal neovascularization on optical coherence tomography angiography images of neovascular age-related macular degeneration patients based on deep learning},
+  author={Feng, Wei and Duan, Meihan and Wang, Bingjie and Du, Yu and Zhao, Yiran and Wang, Bin and Zhao, Lin and Ge, Zongyuan and Hu, Yuntao},
+  journal={Journal of Big Data},
+  volume={10},
+  number={1},
+  pages={111},
+  year={2023},
+  publisher={Springer}
+}
+```
